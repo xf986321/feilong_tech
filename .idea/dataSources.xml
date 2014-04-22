@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3203987219">
+    <data-source source="LOCAL" name="Rails feilong_tech: development" uuid="e601068e-5d25-4bbf-a25b-9822b5f698de">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/feilong_tech</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfdadfdfdfc8dfc6dfc3dfc9</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails feilong_tech: test" uuid="a1b90c59-0ba5-446d-8e55-f2d405621b11">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/feilong_tech</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfdadfdfdfc8dfc6dfc3dfc9</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails feilong_tech: production" uuid="f1b67754-084a-4928-a4b9-a13ad5ee64c8">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/feilong_tech</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfdadfdfdfc8dfc6dfc3dfc9</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
